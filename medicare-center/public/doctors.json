@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Sara Van Nortwick",
+        "degree": "MBBS., FCPS, M.D.",
+        "specilities": "Pediatric Orthopaedics",
+        "schedule": "4:30-7:00pm",
+        "doctor_img": "https://muschealth.org/MUSCApps/HealthAssets/ProfileImages/VanNortwick-Sara-Orthopaedics.jpg",
+        "type": "Orthopaedics"
+    },
+    {
+        "id": 2,
+        "name": "William Pullen, M.D.",
+        "degree": "FCPS, MD",
+        "specilities": "Orthopaedic and Sports Medicine",
+        "schedule": "3:30-6:00pm",
+        "doctor_img": "https://muschealth.org/MUSCApps/HealthAssets/ProfileImages/Pullen-William-Michael-Orthopaedics.jpg",
+        "type": "Medicine"
+    },
+    {
+        "id": 3,
+        "name": "Heather Evans, M.D.",
+        "degree": "FCPS, MD",
+        "specilities": "General & Acute Care Surgery",
+        "schedule": "8:30-11:00pm",
+        "doctor_img": "https://muschealth.org/MUSCApps/HealthAssets/ProfileImages/Evans-Heather-Surgery.jpg",
+        "type": "Medicine"
+    },
+    {
+        "id": 4,
+        "name": "Richard Friedman",
+        "degree": "MBBS., FCPS, M.D.",
+        "specilities": "Chief, Shoulder and Elbo Surgery",
+        "schedule": "4:30-7:00pm",
+        "doctor_img": "https://muschealth.org/MUSCApps/HealthAssets/ProfileImages/Friedmanz-Richardz-OrthSurg.jpg",
+        "type": "Orthopaedics"
+    },
+    {
+        "id": 5,
+        "name": "Harris Slone",
+        "degree": "M.D.",
+        "specilities": "Brain hemorrhage operation",
+        "schedule": "3:30-6:00pm",
+        "doctor_img": "https://muschealth.org/MUSCApps/HealthAssets/ProfileImages/Slone-Harris-Orthopaedics.jpg",
+        "type": "Neurology"
+    },
+    {
+        "id": 6,
+        "name": "Eric Nielsen, M.D.",
+        "degree": "FCPS, M.D.",
+        "specilities": "Heart Surgery",
+        "schedule": "6:30-10:00pm",
+        "doctor_img": "https://muschealth.org/MUSCApps/HealthAssets/ProfileImages/Hansen-Erik-Orthopaedics.jpg",
+        "type": "Cardiology"
+    },
+    {
+        "id": 7,
+        "name": "David Hanson, M.D.",
+        "degree": "FCPS, M.D.",
+        "specilities": "Brain Tumor Specialist",
+        "schedule": "5:30-8:00pm",
+        "doctor_img": "https://muschealth.org/MUSCApps/HealthAssets/ProfileImages/Cox-John-Pulmonary.jpg",
+        "type": "Neurology"
+    },
+    {
+        "id": 8,
+        "name": "Joe Pattinson, M.D.",
+        "degree": "FCPS, M.D.",
+        "specilities": "Heart Transplant Specialist",
+        "schedule": "8:30-11:00pm",
+        "doctor_img": "https://muschealth.org/MUSCApps/HealthAssets/ProfileImages/Houston-Brian-Cardiology.jpg",
+        "type": "Cardiology"
+    }
+]

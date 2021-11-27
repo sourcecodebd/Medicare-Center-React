@@ -1,0 +1,156 @@
+[
+    {
+        "_id": 1,
+        "title": "RENT OXYGEN CYLINDER",
+        "type": "Cardiology",
+        "description": "We provides oxygen cylinder tank rental. Our store fully stocks oxygen tanks including B Tanks, C Tanks, and E Tanks; all are available for a monthly rental. The rental tanks come with oxygen regulator and a new nasal cannula. All of our rental tanks are in good condition, inspected regularly, and thoroughly cleaned and sanitized after every rental. We offer two options in renting out an oxygen tank. Option A has an O2 regulator that only has a continuous flow of oxygen. Option B has an O2 conservative device that allows a pulse dose of oxygen. Contact Us | Customer Service & Support: 01712-441402",
+        "image": "https://www.unicef.org/supply/sites/unicef.org.supply/files/styles/hero_desktop/public/Honduras-UNI41215-article.jpg?itok=QEFgSzEh",
+        "price": 3000,
+        "required": "Prescription",
+        "state": "Available",
+        "rating": 4.2
+    },
+    {
+        "_id": 2,
+        "title": "HOME NURSING CARE",
+        "type": "Orthopaedics",
+        "description": "Home nursing services encompasses a wide range of healthcare services that can be easily administered at your home. Home care nursing services are usually cheaper than hospitals and nursing homes, while being just as effective as the medical care offered in a hospital or nursing home. An in-home nursing service offers personalized nursing care at home as offered in a typical hospital while being more compassionate towards the patient and gets integrated into the patient’s family and develops an emotional bond with the patient and their family. The services offered by home care nursing are provided by registered nurses, physiotherapists and occupational therapists among others. And as such you need not worry on the quality of service offered by the home nurse. In the past, the phrases In-Home Care, Home Care and Home Health Care were used interchangeably. Today however, people have developed a better understanding towards Home Health Care or In-Home nursing service which is basically skilled nursing care whereas the term In-Home Care refers to non-medical care services like personal care and companionship and supervision.When Do You Need Us?The main goal of home nursing service is to treat an illness or injury. The home nursing services usually entails wound care for pressure sores or surgical wound, patient and care – giver education, Intravenous or nutrition therapy, injections, rehabilitation therapies and monitoring serious illness and unstable health status.",
+        "image": "https://tigerconnect.com/wp-content/uploads/2020/03/nurse-patient.jpg",
+        "price": 7000,
+        "required": "Orthopaedic Walking Stick",
+        "state": "Limited",
+        "rating": 4.3
+    },
+    {
+        "_id": 3,
+        "title": "BABY CARE SUPPORT",
+        "type": "Medicine",
+        "description": "Baby Care Support in Dhaka Bangladesh otherwise known as day care, is the care and supervision of a child or multiple children at a time, whose ages range from six weeks to thirteen years. New Home Born Baby Care is the action or skill of looking after children by a day-care center, nannies, babysitter, teachers or other providers. Child care is a broad topic that covers a wide spectrum of professionals, institutions, contexts, activities, and social and cultural conventions. The objective of the program of daily activities should be to foster incremental developmental progress in a healthy and safe environment and should be flexible to capture the interests of the children and the individual abilities of the children.In many cases the appropriate child care provider is a teacher or personal with educational background in child development, which requires a more focused training aside from the common core skills typical of a child caregiver.",
+        "image": "https://apnardeal.com/wp-content/uploads/2019/11/888570.jpg",
+        "price": 12000,
+        "required": "Prescription",
+        "state": "Limited",
+        "rating": 4.6
+    },
+    {
+        "_id": 4,
+        "title": "GERIATRIC SENIOR CARE",
+        "type": "Neurology",
+        "description": "Home Elderly Care,One of the aims of elderly care is to help elderly people and those with disabilities live normal, independent lives. This includes living in their own homes as long as possible.Elderly Home Patient Cares are trained yet affordable to take care of your loved ones specially who require assistance with various daily living activities. Our Caregivers can facilitate with the client’s hygiene demand, assist with mobilization, facilitate with feeding.They’re going to conjointly play a job in promoting the mental state of the consumer by occupying them with numerous activities once they are awake and up to it.Home Nursing Care Service in Dhaka Bangladesh (bd), One of the aims of elderly care is to help elderly people and those with disabilities live normal, independent lives. This includes living in their own homes as long as possible.Elderly living alone Loneliness can be twice as unhealthy as obesity. Feeling of isolation can have a devastating impact on an older person.Elderly need Personal assistanceAssistance in daily living activity like bathing, toileting, getting dressed up, feeding, walking etc. Elderly may or may not be in a bedridden/semi bedridden state.",
+        "image": "https://www.c-care.ca/wp-content/uploads/2019/05/senior-care.jpg",
+        "price": 8500,
+        "required": "Prescription",
+        "state": "Available",
+        "rating": 4.2
+    },
+    {
+        "_id": 5,
+        "title": "HOSPITAL ATTENDANTS",
+        "type": "Cardiology",
+        "description": "There are times when constant care and attention is required at home for your loved one. There are measure many instances once all you wish may be a help reception for taking care of daily wants of your older or a loved one littered with chronic illness will be wherever having a caretaker reception can be thus useful. Medicare Center understands the sort of support you may want once 24/7 care and a spotlight is needed for your you liked one. That’s why we offer certified and old non-medical attendants as a part of our Attendant Service. All our in-home patient attendants specialize in patient care and square measure certified caregivers. We tend to square measure psychoneurotic regarding training and choosing our caregivers and supply ample on-the-job training where we discover it lacking.",
+        "image": "https://assets.irinnews.org/styles/responsive_large/s3/new-img_4857_1920.jpg?MObtCh29zDaJ97Yi_v1Ogg2bI81QICMF&itok=bbxk8g0B",
+        "price": 4200,
+        "required": "Prescription",
+        "state": "Limited",
+        "rating": 3.8
+    },
+    {
+        "_id": 6,
+        "title": "CRITICAL CARE NURSING",
+        "type": "Neurology",
+        "description": "Our home care nursing services provide support for people in many ways ranging from a one hour visit to 24 hour live-in care. We provide on demand visiting nurses, personal or private nurse at home or in hospital to take care of patient with highest level of satisfaction.  From the moment our nursing staff walk into a patient's life they are there to help support them physically, emotionally and mentally. Each client is assigned their own carefully screened caregiver based on their needs and care plan evaluation. Our specialized nursing team provides acute home care to patients with multiple medical challenges.",
+        "image": "https://nursingnotes.co.uk/wp-content/uploads/2018/09/xMounting-NHS-vacancies-becoming-national-emergency-750x500.jpeg.pagespeed.ic.IIYcnrHEpM.webp",
+        "price": 13000,
+        "required": "Operational Equipement",
+        "state": "Available",
+        "rating": 4.9
+    },
+    {
+        "_id": 7,
+        "title": "ABDOMINAL WALL RECONSTRUCTION",
+        "type": "Cardiology",
+        "description": "Large or complex abdominal wall defects are a particularly challenging surgical problem. Abdominal wall reconstruction surgery is an advanced surgical procedure that strengthens a weakened or damaged abdominal muscle and restores the normal function of the abdominal wall. It is a procedure recommended for patients with advanced hernias and requires specialized surgical expertise.",
+        "image": "https://muschealth.org/-/sm/news-center-media/news-center-images/2020-images/01/eriksson-goff-and-waite.ashx",
+        "price": 30000,
+        "required": "Operational Equipements",
+        "state": "Available",
+        "rating": 4.8
+    },
+    {
+        "_id": 8,
+        "title": "HEAD PAIN SERVICES",
+        "type": "Neurology",
+        "description": "Headache disorders, such as migraines, tension headaches, and cluster headaches, are one of the most common nervous system disorders. If severe head pain is interfering with your ability to enjoy life, our experts can help. Medicare Center's head pain specialists are fellowship trained, meaning they have advanced training in diagnosing and treating neurological disorders and head pain. We find the pain relief solution that works for you so you can enjoy life.",
+        "image": "https://media.istockphoto.com/photos/have-to-keep-away-from-focusing-on-the-pain-picture-id949054828?b=1&k=20&m=949054828&s=170667a&w=0&h=pQ7QBdIwl5E0ovszeFPmm-45aTfRpIDLS_gkeRPEfug=",
+        "price": 9000,
+        "required": "Therapy Machines and Prescription",
+        "state": "Limited",
+        "rating": 3.7
+    },
+    {
+        "_id": 9,
+        "title": "HEART TRANSPLANT PROGRAM",
+        "type": "Cardiology",
+        "description": "Our doctors are some of the world’s foremost heart experts. We have an exceptionally skilled team of cardiologists and transplant surgeons, who are board-certified in advanced heart failure, cardiovascular disease, and transplant cardiology. Our heart transplant specialists are always by your side, carefully guiding you through every step of the transplant process.",
+        "image": "https://muschealth.org/-/sm/health/transplant/i/heart-transplant-program.ashx?h=432&w=649&la=en&hash=0BF45415A475953210E6B6485B4CEDCEAF37B373",
+        "price": 80000,
+        "required": "Operational Equipements and Prescription",
+        "state": "Available",
+        "rating": 4.7
+    },
+    {
+        "_id": 10,
+        "title": "PHYSICAL THERAPY SERVICES",
+        "type": "Orthopaedics",
+        "description": "Individuals of all ages and diagnoses who use manual or power wheelchairs can received a comprehensive evaluation to determine what kind of wheelchair and seating system will meet their unique needs. Our physical therapists have advanced training to assist wheel chair users in improving their posture, decreasing their pain, and finding the right equipment for their seating and mobility needs, in order to be as independent as possible.",
+        "image": "https://cloud2.spineuniverse.com/sites/default/files/imagecache/large-content/wysiwyg_imageupload/3998/2016/08/11/Physical%20Therapy%2010.jpg",
+        "price": 2500,
+        "required": "Therapy Machine and Prescription",
+        "state": "Limited",
+        "rating": 4.8
+    },
+    {
+        "_id": 11,
+        "title": "BURN TREATEMENT",
+        "type": "Orthopaedics",
+        "description": "We’re leading the way in burn care research and advanced burn treatments. We take part in clinical trials testing new treatments and technologies. Our burn center was the first in the nation to report performing a minimally invasive skin graft treatment instead of traditional skin graft surgery. We use special equipment such as lasers to reduce scarring from burns. Telemedicine technology helps doctors make burn care decisions when patients are in another location. Our burn center features radiant panels that heat rooms to more than 90 F for patient comfort. We also have a hydrotherapy room that makes cleaning burn wounds easier and more comfortable.",
+        "image": "https://content.presspage.com/uploads/1873/500_burninjury.jpg?10000",
+        "price": 20000,
+        "required": "Medicine and Prescription",
+        "state": "Available",
+        "rating": 4.3
+    },
+    {
+        "_id": 12,
+        "title": "ALLERGY & ASTHMA SERVICES",
+        "type": "Medicine",
+        "description": "You receive care from a doctor who completed training programs (fellowships) in both asthma and allergy care (immunology). This level of training helps us efficiently care for people who suffer from both conditions. Our team includes respiratory therapists and nurses with special training to help you get the most out of treatment. We are advancing asthma and allergy care through research and clinical trials. Our efforts give you access to new medications for uncontrolled asthma and complex allergies affecting the white blood cells (eosinophilic disorders). Some of these medications are only available in programs that conduct research.",
+        "image": "https://sa1s3optim.patientpop.com/assets/images/provider/photos/1964064.jpg",
+        "price": 7000,
+        "required": "Inhaler and Prescription",
+        "state": "Limited",
+        "rating": 4.6
+    },
+    {
+        "_id": 13,
+        "title": "CANCER",
+        "type": "Medicine",
+        "description": "Medicare Cancer is a NCI-Designated Cancer Center providing cancer diagnosis, treatment and support to residents of South Carolina and beyond. With more than 120 physicians and 60 sub-specialties, let our cancer specialists work with you and your family to develop a customized treatment plan.",
+        "image": "https://media.istockphoto.com/photos/beautiful-ethnic-woman-with-cancer-smiles-picture-id897271658?k=20&m=897271658&s=612x612&w=0&h=sMWQsyZtgsRbeU72GgMy9q2WFsKjHARNynCbDmt0dFk=",
+        "price": 65000,
+        "required": "Prescription",
+        "state": "Available",
+        "rating": 3.7
+    },
+    {
+        "_id": 14,
+        "title": "KIDNEY TRANSPLANT",
+        "type": "Medicine",
+        "description": "Experts at our Transplant Center collaborate to develop your personalized kidney transplant plan, and we’re with you every step of the way. Each kidney surgeon and nephrologist is board-certified and has received additional training to better care for transplant patients. Many other team members, like nurses and pharmacists, have dedicated their careers to providing care specifically to transplant patients. Many kidney transplants at Medicare Center Health involve high-risk patients, like people with pulmonary hypertension or certain heart conditions. Our kidney surgeons are certified by the American Society of Transplant Surgeons, which means they have the expertise they need to handle even the most challenging cases. And thanks to the skill of our entire team, our surgical outcomes exceed national averages.",
+        "image": "https://consultqd.clevelandclinic.org/wp-content/uploads/sites/2/2019/07/650x450-Uterus-Transplant.jpg",
+        "price": 120000,
+        "required": "Operational Equipment and Prescription",
+        "state": "Available",
+        "rating": 4.3
+    }
+]

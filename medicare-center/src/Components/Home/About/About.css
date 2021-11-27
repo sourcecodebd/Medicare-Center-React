@@ -1,0 +1,19 @@
+.line-dark{
+    background-color: #00E9FF;
+    height: 3px;
+    width: 90px;
+    margin: auto;
+}
+.about-us{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    place-items: center;
+    align-items: center;
+    font-size: 25px;
+}
+@media only screen and (max-width: 768px){
+    .about-us{
+        grid-template-columns: 1fr;
+        font-size: 15px;
+    }
+}

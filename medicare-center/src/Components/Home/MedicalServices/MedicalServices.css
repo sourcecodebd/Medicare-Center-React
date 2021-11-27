@@ -1,0 +1,48 @@
+.medical-image{
+    height: 300px;
+}
+.medical-image img{
+    object-fit: cover;
+    height: 100%;
+}
+.fa-star{
+    color: gold;
+}
+.text-yellow{
+    color: yellow;
+}
+.text-justify{
+    text-align: justify;
+}
+.description {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    height: 300px;
+}
+.btn-custom{
+    background-color: white;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    box-shadow: rgba(0, 0, 0, 0.6) 2px 4px 8px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 5px 15px;
+    transition: 0.3s;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    bottom: 30px;
+}
+.btn-custom:hover{
+    background-color: rgb(0, 132, 255);
+    color: white;
+    transform: translate(0, -5px);
+}
+.card-custom{
+    position: relative;
+    height: 640px
+}
