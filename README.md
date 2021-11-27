@@ -6,7 +6,7 @@ https://medicare-center-bd.web.app/
 [Nafi Mahmud][author]
 
 [author]: https://sourcecodebd.github.io/nafi.com/
-Hi There! This is a simple health related app that I made using React JS, Material UI, React Bootstrap, CSS3. I have fetched data through own made JSON server. Here are the functionality given below.
+Hi There! This is a simple health-related app that I made using React JS, Material UI, React Bootstrap, CSS3. I have fetched data through my own made JSON server. Here is the functionality is given below.
 
 # About App
 ## • In this site we serve our best medical treatment of our medical center.
